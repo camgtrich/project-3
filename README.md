@@ -2,7 +2,7 @@
 import requests
 
 # Add your own NASA API key here.
-API_KEY = "YOUR_NEW_NASA_API_KEY"
+API_KEY = "TnJjQpCTPzk8g8hRpq7rgPr8fHwGzJHwDhw7JbDr"
 
 
 # Function 1: Ask the user for a date.
